@@ -1,6 +1,6 @@
 # UDP Probe 
 
-A lightweight toolkit that mimics Wireshark functionality to capture, analyze, and test UDP traffic.
+A lightweight toolkit featuring a few automation scripts that mimic Wireshark functionality to capture, analyze, and test UDP traffic.
 
 - Allows a user to test latency, simulate probes, detect packet loss, and visualize data. This tool captures and analyzes UDP traffic similarily to Wireshark.
 
